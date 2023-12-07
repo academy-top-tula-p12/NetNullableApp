@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetNullableApp", "NetNullableApp\NetNullableApp.csproj", "{6FC635E8-22A3-443D-B3DF-B7140487728C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FC635E8-22A3-443D-B3DF-B7140487728C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FC635E8-22A3-443D-B3DF-B7140487728C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FC635E8-22A3-443D-B3DF-B7140487728C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FC635E8-22A3-443D-B3DF-B7140487728C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {793AD26C-33C9-47EC-BC46-32E2A5077BD4}
+	EndGlobalSection
+EndGlobal
